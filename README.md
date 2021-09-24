@@ -1333,7 +1333,7 @@ Processos, concorrência, paralelismo no Elixir.
   - [x] A máquina virtual roda em um único processo do sistema operacional
   - [x] Cada scheduler pode criar milhares de processos. O limite teórico é de 134 milhões!
 
-<img src="./elixir.png" width="400" />
+<img src="./beam_process.png" width="400" />
 
 ## Concorrência vs Paralelismo
 
